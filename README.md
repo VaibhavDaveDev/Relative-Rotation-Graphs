@@ -9,7 +9,7 @@
   <p>
     <a href="#-what-is-a-relative-rotation-graph-rrg">What is RRG</a> •
     <a href="#-prerequisites">Prerequisites</a> •
-    <a href="#-installation">Installation</a> •
+    <a href="#installation">Installation</a> •
     <a href="#-usage">Usage</a> •
     <a href="#-features">Features</a> •
     <a href="#-practical-applications">Applications</a> •
@@ -83,7 +83,7 @@ RRG charts provide more than just a snapshot; they also illustrate how securitie
 - Python 3.8 or higher
 - pip (Python package installer)
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository**
 ```bash
