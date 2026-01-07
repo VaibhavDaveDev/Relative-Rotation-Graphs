@@ -26,6 +26,7 @@ An interactive web application built with Streamlit that generates Relative Rota
 In the world of investing and trading, identifying market leaders and laggards is crucial. Traditional price charts and indicators provide valuable insights, but they often fail to visualize sector or stock rotation in a clear and intuitive manner. This is where Relative Rotation Graphs (RRG) come into play.
 
 RRG charts allow traders and investors to compare the relative strength and momentum of multiple securities against a benchmark, revealing how different stocks, sectors, or asset classes are rotating through various performance phases.
+<img width="1024" height="629" alt="image" src="https://github.com/user-attachments/assets/97de85f1-3934-4f6d-b65b-1c61197d3eba" />
 
 ### Key Metrics
 
@@ -179,6 +180,9 @@ relative-rotation-graphs/
 ├── README.md                       # This file
 └── .venv/                         # Virtual environment (not tracked)
 ```
+## Screenshots
+<img width="1507" height="1197" alt="image" src="https://github.com/user-attachments/assets/51383ca1-ac43-4a81-8c2c-bcc692be2fff" />
+<img width="1476" height="871" alt="image" src="https://github.com/user-attachments/assets/35ae1d8c-76c1-49f4-85c6-aad384547676" />
 
 ## 🔧 Technical Details
 
