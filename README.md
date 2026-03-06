@@ -88,7 +88,7 @@ RRG charts provide more than just a snapshot; they also illustrate how securitie
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/relative-rotation-graphs.git
+git clone https://github.com/VaibhavDaveDev/Relative-Rotation-Graphs
 cd relative-rotation-graphs
 ```
 
@@ -181,8 +181,9 @@ relative-rotation-graphs/
 └── .venv/                         # Virtual environment (not tracked)
 ```
 ## Screenshots
-<img width="1507" height="1197" alt="image" src="https://github.com/user-attachments/assets/51383ca1-ac43-4a81-8c2c-bcc692be2fff" />
-<img width="1476" height="871" alt="image" src="https://github.com/user-attachments/assets/35ae1d8c-76c1-49f4-85c6-aad384547676" />
+<img width="2185" height="857" alt="image" src="https://github.com/user-attachments/assets/46edb49e-8ba7-4e0a-847f-c1c6f25ee6a8" />
+<img width="737" height="458" alt="image" src="https://github.com/user-attachments/assets/2327c03d-a9c9-43b1-9f07-abbbb83ccd5a" />
+<img width="1448" height="673" alt="image" src="https://github.com/user-attachments/assets/fd0804bb-c639-4732-a2a6-47b48a4e8e05" />
 
 ## 🔧 Technical Details
 
