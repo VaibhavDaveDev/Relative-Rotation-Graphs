@@ -1,5 +1,6 @@
-# Relative Rotation Graphs (RRG) - Interactive Analysis Tool
+# [Relative Rotation Graphs (RRG) - Interactive Analysis Tool](https://relative-rotation-graphs.streamlit.app/)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://relative-rotation-graphs.streamlit.app/)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.0+-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -16,7 +17,6 @@
     <a href="#-technical-details">Technical Details</a>
   </p>
 </div>
-
 ---
 
 An interactive web application built with Streamlit that generates Relative Rotation Graphs (RRG) for smarter investing and trading decisions. Visualize sector or stock rotation patterns and identify market leaders and laggards at a glance.
@@ -78,6 +78,10 @@ RRG charts provide more than just a snapshot; they also illustrate how securitie
 ### Securities Crossing Quadrants
 - Stocks moving from improving to leading are prime buy candidates
 - Stocks moving from weakening to lagging should be avoided
+
+## 🌐 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://relative-rotation-graphs.streamlit.app/)
 
 ## 📋 Prerequisites
 
